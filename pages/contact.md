@@ -1,12 +1,18 @@
 ---
 layout: page
-title: "Contact"
+title: "Contato"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
+subheadline: "queres saber algo?"
+teaser: "Para entrar em contato conosco... preencher o formulário"
+permalink: "/contato/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Podes também ....
 
+<form method="POST" action="http://formspree.io/biodanza@anaerosely.pt">
+  <input type="hidden" name="_subject" value="Novo contacto do nosso site!" />
+  <input type="email" name="email" placeholder="o teu email">
+  <textarea name="message" placeholder="a tua mensagem"></textarea>
+  <button type="submit">Enviar</button>
+</form>
 
  [1]: http://www.wufoo.com/

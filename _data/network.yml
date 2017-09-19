@@ -1,9 +1,9 @@
-- menu_name: "Dankeschön"
+- menu_name: "Curiosidades"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
+- name: "Gaspar Santos"
+  url: "http://gasparsantos.eu"
   class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+  title: "Gaspar Santos"
 
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
