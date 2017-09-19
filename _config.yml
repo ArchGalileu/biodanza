@@ -12,6 +12,7 @@ title: 'Biodanza'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Ana e Rosely'
+slogan: 'Vem e Voa'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Biodanza - Ana Padilha e Rosely Prieto« é o sítio na web do grupo de Biodanza das facilitadoras Ana Padilha e Rosely Prieto'
@@ -22,6 +23,7 @@ credits: '<p>Created with &hearts; by <a href="http://gasparsantos.eu">ME</a> wi
 # Main author of the website
 # See > authors.yml
 author: anaerosely
+author: Ana e Rosely
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -30,7 +32,7 @@ baseurl: '/biodanza'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/ArchGalileu/biodanza/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -142,9 +144,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+#######google_author:             'https://plus.google.com/u/0/118311555303973066167'
+#######google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+#######bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -229,7 +231,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+######google_analytics_tracking_id: UA-60112281-1
 
 
 
