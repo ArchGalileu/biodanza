@@ -1,8 +1,8 @@
 - menu_name: "Ligações"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Contato"
+  url: "/contato/"
+  title: "Contato"
 
 - name: "RSS"
   url: "/feed.xml"
