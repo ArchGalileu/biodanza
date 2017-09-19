@@ -27,8 +27,8 @@ author: Ana e Rosely
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://archgalileu.github.io'
-baseurl: '/biodanza'
+url: 'http://archgalileu.github.io'
+baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -40,7 +40,7 @@ improve_content: https://github.com/ArchGalileu/biodanza/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://archgalileu.github.io/biodanza/images/'
+urlimg: 'http://archgalileu.github.io/biodanza/images/'
 
 
 # Logo size is 600x80 pixels
