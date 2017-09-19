@@ -8,7 +8,7 @@ permalink: /contato/
 ---
 
 
-Podes também ….
+Queres saber algo não hesites...
 
 <form method="POST" action="http://formspree.io/biodanza@anaerosely.pt">
   <input type="hidden" name="_subject" value="Novo contacto do nosso site!" />
