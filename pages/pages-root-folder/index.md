@@ -9,7 +9,7 @@ header:
     image: "capa-facebook.png"
     background-color: "#fabb00"
     caption: Por Ana Padilha e Rosely Nunes
-    caption_url: https://biodanza.anaerosely.pt/
+    caption_url: http://biodanza.anaerosely.pt/
 widget1:
   title: "Quando"
   url: '/aula-1'
