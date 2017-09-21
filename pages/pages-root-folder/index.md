@@ -36,7 +36,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: /contato
   text: Diz-nos se vens dançar conosco :) ›
   style: alert
 permalink: /index.html
