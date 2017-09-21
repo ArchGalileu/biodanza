@@ -13,17 +13,17 @@ header:
 widget1:
   title: "Quando"
   url: '/aula-1'
-  image: widget-1-302x182.jpg
+  image: Calendario.png
   text: 'A cada quarta-feira pelas 20h30 :) anda, estás convidad@'
 widget2:
   title: "Onde"
   url: '/'
   text: 'Rua da Paz 66, 5º piso, Sala 56, 4050-461 Porto - <em>PARQUE PRIVATIVO E GRATUITO</em>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: Biodanza-anaerosely-mapa.png
 widget3:
   title: "Com quem"
   url: '/'
-  image: widget-github-303x182.jpg
+  image: facilitadoras.jpg
   text: 'Ana Padilha e Rosely Nunes - Facilitadores de Biodanza em supervisão'
 #
 # Use the call for action to show a button on the frontpage
