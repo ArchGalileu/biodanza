@@ -1,6 +1,6 @@
 <aside>
 	<div class="panel radius">
-		<h3>Mais sobre</h3>
+		<h3>Facilitadora</h3>
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
@@ -8,7 +8,13 @@
 		</p>
 	</div>
 
-    <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">  
+{% comment %}
+*  This loops through the paginated posts
+*
+*  Total posts: {{ paginator.total_posts }}
+*  Total paginate-pages: {{ paginator.total_pages }}	
+*    <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">  
+{% endcomment %}
 
 	<div class="border-dotted radius b30">
 		<img src="http://placekitten.com/271/270" alt="uh, Placekitten">

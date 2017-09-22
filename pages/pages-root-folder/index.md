@@ -17,12 +17,12 @@ widget1:
   text: 'A cada quarta-feira pelas 20h30 :) anda, estás convidad@'
 widget2:
   title: "Onde"
-  url: '/'
+  url: '/sala'
   text: 'Rua da Paz 66, 5º piso, Sala 56, 4050-461 Porto - <em>PARQUE PRIVATIVO E GRATUITO</em>'
   image: Biodanza-anaerosely-mapa.png
 widget3:
   title: "Com quem"
-  url: '/'
+  url: '/facilitadoras'
   image: facilitadoras.jpg
   text: 'Ana Padilha e Rosely Nunes - Facilitadores de Biodanza em supervisão'
 #
