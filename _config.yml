@@ -11,19 +11,17 @@
 title: 'Biodanza - Ana e Rosely'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Ana e Rosely'
 slogan: 'Vem e Voa'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Biodanza - Ana Padilha e Rosely Prieto« é o sítio na web do grupo de Biodanza das facilitadoras Ana Padilha e Rosely Prieto'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://gasparsantos.eu">ME</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Criado com &hearts; por <a href="http://gasparsantos.eu">ME</a> com <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> baseado em <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
 author: anaerosely
-author: Ana e Rosely
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #

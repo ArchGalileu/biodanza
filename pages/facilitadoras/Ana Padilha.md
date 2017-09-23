@@ -8,6 +8,7 @@ title: "Ana Padilha"
 teaser: "Facilitadora de Biodanza em supervisão"
 categories: 
   - facilitadoras
+tipo: teste
 #
 # Styling
 #

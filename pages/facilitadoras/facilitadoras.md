@@ -16,8 +16,6 @@ teaser: ""
 permalink: facilitadoras/
 ---
 
-Ana Padilha
-
-
-Rosely Nunes
-
+### Ana Padilha  
+  
+### Rosely Nunes
