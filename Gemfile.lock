@@ -26,6 +26,8 @@ GEM
       jekyll (>= 2.3.0)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
+    jekyll-maps (2.0.4)
+      jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
@@ -62,7 +64,8 @@ DEPENDENCIES
   jekyll
   jekyll-asciidoc
   jekyll-gist
+  jekyll-maps
   jekyll-paginate
 
 BUNDLED WITH
-   1.13.6
+   1.15.4

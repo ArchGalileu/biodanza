@@ -49,8 +49,16 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-maps
 
-
+#
+# GOOGLE MAPS BY ME
+#
+maps:
+  google:
+    api_key: AIzaSyBq732H5zhy6niOPxXZx_4FrOsFVHhe2cQ
+    
+    
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
 #     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
