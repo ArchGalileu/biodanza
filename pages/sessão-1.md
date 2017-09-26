@@ -4,13 +4,13 @@ layout: page
 # Content
 #
 subheadline: "está quase"
-title: "Aula 1"
+title: "Sessão 1"
 teaser: "O caminho faz-se percorrendo, e aqui estamos para o iniciar, ao teu lado, eu, tu, nós... e o Mundo"
 categories: 
-  - aulas
+  - sessões
 tags: processo
   - processo
-permalink: "/aula-1/"
+permalink: "/sessao-1/"
 #
 # Styling
 #

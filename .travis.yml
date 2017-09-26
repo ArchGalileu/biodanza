@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+- 2.3.1
+install:
+- bundle install
+script: bundle exec rake site:deploy --quiet
+env:
+  global:
+    secure: travis encrypt 'GIT_NAME="ArchGalileu" GIT_EMAIL="geral@gasparsantos.eu" GH_TOKEN=e8ada883afce2cd29a9ac354e205f7cf0ff2227b'

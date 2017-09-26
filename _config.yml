@@ -84,6 +84,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - vendor/
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -99,6 +100,19 @@ compress_html:
   profile: false
   ignore:
     envs: [development]
+    
+    
+##########
+##### TRAVIS SETUP
+##########
+# GitHub
+username:             ArchGalileu
+repo:                 archgalileu.github.io/biodanza
+branch:               source
+
+# Jekyll source / destination
+source:               .
+destination:          _site
 
 
 #

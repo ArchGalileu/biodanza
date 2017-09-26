@@ -12,7 +12,7 @@ header:
     caption_url: http://biodanza.anaerosely.pt/
 widget1:
   title: "Quando"
-  url: '/aula-1'
+  url: '/sessao-1'
   image: Calendario.png
   text: 'A cada quarta-feira pelas 20h30 :) anda, estás convidad@'
 widget2:
