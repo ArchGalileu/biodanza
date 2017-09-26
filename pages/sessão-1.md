@@ -22,7 +22,7 @@ image:
     caption_url:
 ---
 O que necessitas... 
-:   roupa confortável   
+:   roupa confortável
   
 Sim, apenas isso ;)  
 
