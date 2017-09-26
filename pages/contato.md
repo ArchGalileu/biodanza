@@ -6,7 +6,7 @@ subheadline: queres saber algo? Não hesites!
 teaser: Para entrar em contato conosco... preencher o formulário
 permalink: /contato/
 ---
-Queres saber algo não hesites...
+Queres saber algo não hesites... 
 
 <form method="POST" action="http://formspree.io/biodanza@anaerosely.pt">
   <input type="hidden" name="_subject" value="Novo contacto do nosso site!" />
