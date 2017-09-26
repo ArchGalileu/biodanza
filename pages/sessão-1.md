@@ -24,7 +24,7 @@ image:
 O que necessitas...
 :   roupa confortável   
   
-Sim, apenas isso ;)
+Sim, apenas isso ;)  
 
 
  [1]: #
