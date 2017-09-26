@@ -22,5 +22,6 @@ permalink: facilitadoras/ana-padilha
 
 Ana Padilha
 
-
+<div class="flex-video">
 {% vimeo 151497841 %}
+</div>
