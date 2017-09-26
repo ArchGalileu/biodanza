@@ -107,7 +107,7 @@ compress_html:
 ##########
 # GitHub
 username:             ArchGalileu
-repo:                 archgalileu.github.com/biodanza
+repo:                 biodanza
 branch:               source
 
 # Jekyll source / destination
