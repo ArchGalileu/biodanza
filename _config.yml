@@ -85,7 +85,6 @@ exclude:
     - README.md
     - INSTALL.md
 
-
 # The language setting is used in /includes/header.html for html-settings
 language: 'pt'
 
@@ -101,19 +100,6 @@ compress_html:
     envs: [development]
     
     
-##########
-##### TRAVIS SETUP
-##########
-# GitHub
-username:             ArchGalileu
-repo:                 biodanza
-branch:               source
-
-# Jekyll source / destination
-source:               .
-destination:          _site
-
-
 #
 #       ____       ____            ____
 #      / __ \___  / __/___ ___  __/ / /_
