@@ -31,7 +31,7 @@ module Jekyll
     end
 
     def render(context)
-      "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"#{@host.call(@id)}\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+      "<div class="flex-video"><iframe width=\"#{@width}\" height=\"#{@height}\" src=\"#{@host.call(@id)}\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>"
     end
     
     Hosts.each_key { |key| Liquid::Template.register_tag key, self }
