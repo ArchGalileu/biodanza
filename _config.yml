@@ -84,7 +84,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-    - vendor/
+    - [vendor]
 
 
 # The language setting is used in /includes/header.html for html-settings
