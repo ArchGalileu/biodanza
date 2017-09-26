@@ -11,13 +11,13 @@ require 'yaml'
 
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"] || ENV['GIT_NAME']
-REPO = CONFIG["repo"] || "#{USERNAME}.github.io"
+REPO = CONFIG["repo"] || "biodanza.anaerosely.pt"
 
 # Determine source and destination branch
 # User or organization: source -> master
 # Project: master -> gh-pages
 # Name of source branch for user/organization defaults to "source"
-if REPO == "#{USERNAME}.github.io"
+if REPO == "biodanza.anaerosely.pt"
   SOURCE_BRANCH = CONFIG['branch'] || "source"
   DESTINATION_BRANCH = "master"
 else
