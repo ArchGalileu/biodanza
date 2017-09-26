@@ -31,7 +31,7 @@ location:
 Rua da Paz 66, 5º piso, Sala 56,  
 4050-461 Porto  
   
-###PARQUE PRIVATIVO E GRATUITO
+### PARQUE PRIVATIVO E GRATUITO
 
 {% google_map zoom="16" width="100%" height="400" class="my-map" %}
 
