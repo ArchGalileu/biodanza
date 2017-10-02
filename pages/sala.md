@@ -15,7 +15,7 @@ permalink: sala/
 # Styling
 #
 image:
-    title: salabiodanza.jpg
+    title: 
     thumb:
     homepage:
     caption:
