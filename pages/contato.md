@@ -17,3 +17,7 @@ Queres saber algo não hesites...
   <input type="hidden" name="_next" value="http://biodanza.anaerosely.pt/" />
   <button type="submit">Enviar</button>
 </form>
+
+Ou liga para
+Ana Padilha - 968 078 181
+Rosely Nunes - 912 079 869
