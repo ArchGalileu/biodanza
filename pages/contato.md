@@ -18,6 +18,6 @@ Queres saber algo não hesites...
   <button type="submit">Enviar</button>
 </form>
 
-Ou liga para
-Ana Padilha - 968 078 181
-Rosely Nunes - 912 079 869
+Ou liga para:  
+Ana Padilha - 968 078 181   
+Rosely Nunes - 912 079 869   
