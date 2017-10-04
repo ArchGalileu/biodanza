@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: O Que é a Biodanza?
 ---
 Bem, realmente é difícil definir biodanza até porque é um sistema de desenvolvimento humano bastante completo e, ao mesmo tempo, complexo tal como o próprio Ser Humano.
