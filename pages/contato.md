@@ -8,12 +8,22 @@ permalink: /contato/
 ---
 Queres saber algo não hesites... 
 
-<form method="POST" action="http://formspree.io/biodanza@anaerosely.pt">
-  <input type="hidden" name="_subject" value="Novo contacto do nosso site!" />
-  <input type="hidden" name="_language" value="pt" />
-  <input type="text" name="_gotcha" style="display:none" />
-  <input type="text" name="_replyto" placeholder="O teu email" />
-  <textarea name="message" placeholder="a tua mensagem"></textarea>
-  <input type="hidden" name="_next" value="http://biodanza.anaerosely.pt/" />
-  <button type="submit">Enviar</button>
+
+
+<form name="contact" netlify-honeypot="bot-field" action="/" netlify>
+  <p class="hidden">
+    <label>Don’t fill this out: <input name="bot-field"></label>
+  </p>
+  <p>
+    <label>Email: <input type="text" name="nome"></label>
+  </p>
+  <p>
+    <label>Assunto: <input type="text" name="assunto"></label>
+  </p>
+  <p>
+    <label>Mensagem: <textarea name="mensagem"></textarea></label>
+  </p>
+  <p>
+    <button type=”submit”>Enviar</button>
+  </p>
 </form>
