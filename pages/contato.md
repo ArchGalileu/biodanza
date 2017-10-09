@@ -8,24 +8,14 @@ permalink: /contato/
 ---
 Queres saber algo não hesites... 
 
-<form name="contact" netlify-honeypot="bot-field" action="/" netlify>
-  <p class="hide">
-    <label>Don’t fill this out: <input name="bot-field"></label>
-  </p>
-  <p>
-    <label>Email: <input type="text" name="nome"></label>
-  </p>
-  <p>
-    <label>Assunto: <input type="text" name="assunto"></label>
-  </p>
-  <p>
-    <label>Mensagem: <textarea name="mensagem"></textarea></label>
-  </p>
-  <p>
-    <button type=”submit”>Enviar</button>
-  </p>
+<form method="POST" netlify-honeypot="bot-field" action="/" netlify>
+  <input type="text" name="bot-field" style="display:none" />
+  <input type="text" name="nome" placeholder="O teu email" />
+  <input type="text" name="assunto" placeholder="qual o assunto" />
+  <textarea name="message" placeholder="a tua mensagem"></textarea>
+  <button type="submit">Enviar</button>
 </form>
-
+  
 Ou liga para:  
 Ana Padilha - 968 078 181   
 Rosely Nunes - 912 079 869   
