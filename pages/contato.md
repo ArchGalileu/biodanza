@@ -27,3 +27,7 @@ Queres saber algo não hesites...
     <button type=”submit”>Enviar</button>
   </p>
 </form>
+
+Ou liga para:  
+Ana Padilha - 968 078 181   
+Rosely Nunes - 912 079 869   
