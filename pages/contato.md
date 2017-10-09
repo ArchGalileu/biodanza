@@ -8,10 +8,8 @@ permalink: /contato/
 ---
 Queres saber algo não hesites... 
 
-
-
 <form name="contact" netlify-honeypot="bot-field" action="/" netlify>
-  <p class="hidden">
+  <p class="hide">
     <label>Don’t fill this out: <input name="bot-field"></label>
   </p>
   <p>
