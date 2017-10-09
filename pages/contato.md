@@ -8,7 +8,7 @@ permalink: /contato/
 ---
 Queres saber algo não hesites... 
 
-<form method="POST" netlify-honeypot="bot-field" action="/" netlify>
+<form name="contato website" netlify-honeypot="bot-field" action="/" netlify>
   <input type="text" name="bot-field" style="display:none" />
   <input type="text" name="nome" placeholder="O teu email" />
   <input type="text" name="assunto" placeholder="qual o assunto" />
