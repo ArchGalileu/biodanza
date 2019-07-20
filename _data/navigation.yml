@@ -69,7 +69,14 @@
 #- title: "Search"
 #  url: "/search/"
 #  side: right
-
+- title: "Monografia Ana Padilha"
+  url: "/files/Monografia-Ana-Padilha.pdf"
+  side: right
+  
+- title: "Monografia Rosely Nunes"
+  url: "/files/Monografia-Rosely-Nunes.pdf"
+  side: right
+  
 - title: "Contato"
   url: "/contato/"
   side: right
