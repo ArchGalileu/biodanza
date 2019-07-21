@@ -33,7 +33,11 @@ Descarregar [Monografia de Ana Padilha](../files/Monografia-Ana-Padilha.pdf)
 ### [Rosely Nunes](rosely-nunes)
    
   
-Iniciei o meu percurso na [Biodanza][3] em 2014 com a facilitadora [Guida Gama][2]  
+Em 2015, tinha uma empresa de prestação de serviços com uma amiga e a Guida Gama pediu-nos para fazermos a divulgação do seu grupo de Biodanza. Para termos conhecimento do que íamos divulgar, ofereceu-nos três aulas. Por ser adepta da “lei do mínimo esforço”, disse à minha sócia que só iria fazer uma aula…  
+  
+Mais tarde, em conversa com a Guida Gama, ela falou-me a respeito da linha de vivência da Transcendência e, como na faculdade tive a cadeira de Psicologia Analítica de Carl Gustav Jung – onde tive o primeiro contacto com a “ideia” da Totalidade, do Self (Si-Mesmo) –, apaixonei-me de imediato. Esta paixão levou-me a ficar na Biodanza. No entanto, com o falecimento da Guida pensei em desistir da Biodanza mas, felizmente, fui “resgatada” pela Ana Padilha e acabei por entrar na escola.  
+  
+A convivência com a minha parceira de facilitação, Ana Padilha, a partir de 2016 ficou mais frequente quando estávamos em formação na Escola de Biodanza do Porto – Portugal, surgindo assim entre nós uma grande identificação, uma amizade e uma cumplicidade especiais.
   
 Descarregar [Monografia de Rosely Nunes](../files/Monografia-Rosely-Nunes.pdf)
 

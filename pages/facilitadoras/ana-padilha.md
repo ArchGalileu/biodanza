@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Ana Padilha"
-teaser: "Facilitadora de Biodanza em supervisão"
+teaser: "Facilitadora de Biodanza Titulada"
 categories: 
   - facilitadoras
 tipo: teste
@@ -21,8 +21,3 @@ permalink: facilitadoras/ana-padilha
 ---
 
 
-
-Supervisionada pela <i>Facilitadora Didata [Ana Melo][1]
-
-
-[1]: ana-melo

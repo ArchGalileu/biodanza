@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Rosely Nunes"
-teaser: "Facilitadora de Biodanza em supervisão"
+teaser: "Facilitadora de Biodanza Titulada"
 categories: 
   - facilitadoras
 #
