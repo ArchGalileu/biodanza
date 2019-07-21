@@ -39,7 +39,7 @@ Mais tarde, em conversa com a Guida Gama, ela falou-me a respeito da linha de vi
   
 A convivência com a minha parceira de facilitação, Ana Padilha, a partir de 2016 ficou mais frequente quando estávamos em formação na Escola de Biodanza do Porto – Portugal, surgindo assim entre nós uma grande identificação, uma amizade e uma cumplicidade especiais.
   
-Descarregar [Monografia de Rosely Nunes](../files/Monografia-Rosely-Nunes.pdf)
+Descarregar [Monografia de Rosely Nunes](/facilitadoras/rosely-nunes)
 
 
 [1]: ana-melo
